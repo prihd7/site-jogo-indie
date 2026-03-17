@@ -1,2 +1,2 @@
-# site-jogo-indie2
+# indiewpl
 Projeto indie - Priscila, Luca, Willian
